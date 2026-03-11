@@ -1,4 +1,4 @@
-# CAN_Bus to KUKSA.Val Databroker Pipeline
+# Embedded_CAN_Bus to KUKSA.Val Databroker Pipeline
 
 This project implements a simple **CAN → Vehicle Signal Specification (VSS) pipeline** using Python and the **KUKSA Databroker**.
 
